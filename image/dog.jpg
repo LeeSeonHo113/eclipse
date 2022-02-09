@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+            <html lang="ko-KR" class="" data-skin="light">
+            <head> <script type="text/javascript">if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+                <meta charset="UTF-8" />
+                <link rel="profile" href="http://gmpg.org/xfn/11" />
+                <link data-minify="1" rel="stylesheet" type="text/css" href="https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/NanumSquare/nanumsquare.css?ver=1643952208">
+
+                <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>강아지가 고마워할 때 보이는 행동 6가지 &ndash; 비마이펫 라이프</title>
+	<meta name="description" content="강아지가 사람을 좋아하고 따른다는 건 쉽게 알 수 있어요.  하지만, 강아지가 우리에게 &#039;고마움&#039;을 느끼는 건 쉽게 알기 어려운데요. 과연 강아지는 보호자에게 고마움을 느낄까요? 그렇다면, 강아지가 고마워할 때 보이는 행동은 어떤 게 있을까요?" />
+	<link rel="canonical" href="https://mypetlife.co.kr/107933/" />
+	<meta property="og:locale" content="ko_KR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="강아지가 고마워할 때 보이는 행동 6가지 &ndash; 비마이펫 라이프" />
+	<meta property="og:description" content="강아지가 사람을 좋아하고 따른다는 건 쉽게 알 수 있어요.  하지만, 강아지가 우리에게 &#039;고마움&#039;을 느끼는 건 쉽게 알기 어려운데요. 과연 강아지는 보호자에게 고마움을 느낄까요? 그렇다면, 강아지가 고마워할 때 보이는 행동은 어떤 게 있을까요?" />
+	<meta property="og:url" content="https://mypetlife.co.kr/107933/" />
+	<meta property="og:site_name" content="비마이펫 라이프" />
+	<meta property="article:publisher" content="https://facebook.com/bemypetkr" />
+	<meta property="article:published_time" content="2021-10-19T06:23:16+00:00" />
+	<meta property="article:modified_time" content="2021-10-19T06:31:48+00:00" />
+	<meta property="og:image" content="https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg" />
+	<meta property="og:image:width" content="1638" />
+	<meta property="og:image:height" content="1105" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@dzKyJCUGRdeiEoN" />
+	<meta name="twitter:site" content="@dzKyJCUGRdeiEoN" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="몽이언니" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3분" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://mypetlife.co.kr/#organization","name":"\ube44\ub9c8\uc774\ud3ab","url":"https://mypetlife.co.kr/","sameAs":["https://facebook.com/bemypetkr","http://instagram.com/bemypetlife","https://www.youtube.com/channel/UClljZ2pw3YZFVGq6EQgJVyQ","https://twitter.com/dzKyJCUGRdeiEoN"],"logo":{"@type":"ImageObject","@id":"https://mypetlife.co.kr/#logo","inLanguage":"ko-KR","url":"https://images.mypetlife.co.kr/content/uploads/2018/04/09160937/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%8E%AB-%EB%A1%9C%EA%B3%A0.png","contentUrl":"https://images.mypetlife.co.kr/content/uploads/2018/04/09160937/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%8E%AB-%EB%A1%9C%EA%B3%A0.png","width":826,"height":503,"caption":"\ube44\ub9c8\uc774\ud3ab"},"image":{"@id":"https://mypetlife.co.kr/#logo"}},{"@type":"WebSite","@id":"https://mypetlife.co.kr/#website","url":"https://mypetlife.co.kr/","name":"\ube44\ub9c8\uc774\ud3ab \ub77c\uc774\ud504","description":"\ubc18\ub824\ub3d9\ubb3c \uc9c0\uc2dd\uc815\ubcf4 \ucc44\ub110","publisher":{"@id":"https://mypetlife.co.kr/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mypetlife.co.kr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ko-KR"},{"@type":"ImageObject","@id":"https://mypetlife.co.kr/107933/#primaryimage","inLanguage":"ko-KR","url":"https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg","contentUrl":"https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg","width":1638,"height":1105},{"@type":"WebPage","@id":"https://mypetlife.co.kr/107933/#webpage","url":"https://mypetlife.co.kr/107933/","name":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0 &ndash; \ube44\ub9c8\uc774\ud3ab \ub77c\uc774\ud504","isPartOf":{"@id":"https://mypetlife.co.kr/#website"},"primaryImageOfPage":{"@id":"https://mypetlife.co.kr/107933/#primaryimage"},"datePublished":"2021-10-19T06:23:16+00:00","dateModified":"2021-10-19T06:31:48+00:00","description":"\uac15\uc544\uc9c0\uac00 \uc0ac\ub78c\uc744 \uc88b\uc544\ud558\uace0 \ub530\ub978\ub2e4\ub294 \uac74 \uc27d\uac8c \uc54c \uc218 \uc788\uc5b4\uc694.\u00a0 \ud558\uc9c0\ub9cc, \uac15\uc544\uc9c0\uac00 \uc6b0\ub9ac\uc5d0\uac8c '\uace0\ub9c8\uc6c0'\uc744 \ub290\ub07c\ub294 \uac74 \uc27d\uac8c \uc54c\uae30 \uc5b4\ub824\uc6b4\ub370\uc694. \uacfc\uc5f0 \uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc5d0\uac8c \uace0\ub9c8\uc6c0\uc744 \ub290\ub084\uae4c\uc694? \uadf8\ub807\ub2e4\uba74, \uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\uc740 \uc5b4\ub5a4 \uac8c \uc788\uc744\uae4c\uc694?","breadcrumb":{"@id":"https://mypetlife.co.kr/107933/#breadcrumb"},"inLanguage":"ko-KR","potentialAction":[{"@type":"ReadAction","target":["https://mypetlife.co.kr/107933/"]}]},{"@type":"BreadcrumbList","@id":"https://mypetlife.co.kr/107933/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"\ud648","item":"https://54.180.14.208/"},{"@type":"ListItem","position":2,"name":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0"}]},{"@type":"Article","@id":"https://mypetlife.co.kr/107933/#article","isPartOf":{"@id":"https://mypetlife.co.kr/107933/#webpage"},"author":{"@id":"https://mypetlife.co.kr/#/schema/person/a163fb27672ec1ca42d7a293050a7bee"},"headline":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0","datePublished":"2021-10-19T06:23:16+00:00","dateModified":"2021-10-19T06:31:48+00:00","mainEntityOfPage":{"@id":"https://mypetlife.co.kr/107933/#webpage"},"wordCount":6,"commentCount":0,"publisher":{"@id":"https://mypetlife.co.kr/#organization"},"image":{"@id":"https://mypetlife.co.kr/107933/#primaryimage"},"thumbnailUrl":"https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg","keywords":["\uac15\uc544\uc9c0 \uac10\uc815","\uac15\uc544\uc9c0 \uace0\ub9c8\uc6c0","\uac15\uc544\uc9c0 \uace0\ub9c8\uc6cc","\uac15\uc544\uc9c0 \ubcf4\ud638\uc790","\uac15\uc544\uc9c0 \ud589\ub3d9","\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c"],"articleSection":["\uac15\uc544\uc9c0 \ud589\ub3d9"],"inLanguage":"ko-KR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://mypetlife.co.kr/107933/#respond"]}]},{"@type":"Person","@id":"https://mypetlife.co.kr/#/schema/person/a163fb27672ec1ca42d7a293050a7bee","name":"\ubabd\uc774\uc5b8\ub2c8","image":{"@type":"ImageObject","@id":"https://mypetlife.co.kr/#personlogo","inLanguage":"ko-KR","url":"https://images.mypetlife.co.kr/content/uploads/2020/11/09150119/KakaoTalk_20201008_101442002-scaled.jpg","contentUrl":"https://images.mypetlife.co.kr/content/uploads/2020/11/09150119/KakaoTalk_20201008_101442002-scaled.jpg","caption":"\ubabd\uc774\uc5b8\ub2c8"},"description":"\uc2a4\ud53c\uce20 \ubabd\uc774\uc640 \ud568\uaed8 \uc0b4\uace0 \uc788\ub294 \ubabd\uc774 \uc5b8\ub2c8\uc785\ub2c8\ub2e4! 1\uc77c 3\uc0b0\ucc45\uc744 \uc2e4\ucc9c\ud558\ub824\uace0 \ub178\ub825\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4 :) eunjinjang@bemypet.kr","sameAs":["samoyed@bemypet.kr"],"url":"https://mypetlife.co.kr/author/eunjinjang/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.gstatic.com' />
+<link rel='dns-prefetch' href='//static.nid.naver.com' />
+<link rel='dns-prefetch' href='//images.mypetlife.co.kr' />
+<link rel='dns-prefetch' href='//assets.mypetlife.co.kr' />
+<link rel='dns-prefetch' href='//cdn.onesignal.com' />
+<link rel='dns-prefetch' href='//mypetlife.co.kr' />
+<link rel='dns-prefetch' href='//gmpg.org' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+
+<link rel="alternate" type="application/rss+xml" title="비마이펫 라이프 &raquo; 피드" href="https://mypetlife.co.kr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="비마이펫 라이프 &raquo; 댓글 피드" href="https://mypetlife.co.kr/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="비마이펫 라이프 &raquo; 강아지가 고마워할 때 보이는 행동 6가지 댓글 피드" href="https://mypetlife.co.kr/107933/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link data-minify="1" rel='stylesheet' id='wp-block-library-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-includes/css/dist/block-library/style.min.css?ver=1643952208' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link data-minify="1" rel='stylesheet' id='bemypet-firebase-css-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/bemypet-firebase/public/css/bemypet-firebase-public.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='bemypet-premium-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/bemypet-premium/public/css/bemypet-premium-public.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='taqyeem-buttons-style-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/taqyeem-buttons/assets/style.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-base-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/base.min.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-styles-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/style.min.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-widgets-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/widgets.min.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-helpers-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/helpers.min.css?ver=1643952208' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-fontawesome5-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/fontawesome.css?ver=1643952209' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-ilightbox-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/ilightbox/light-skin/skin.css?ver=1643952209' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-shortcodes-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/plugins/shortcodes.min.css?ver=1643952209' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tie-css-single-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/single.min.css?ver=1643952209' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-print-css'  href='https://assets.mypetlife.co.kr/wp-content/themes/bemypet-life/assets/css/print.css?ver=5.1.0' type='text/css' media='print' />
+<link data-minify="1" rel='stylesheet' id='taqyeem-styles-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/css/plugins/taqyeem.min.css?ver=1643952209' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='bemypet-life-child-theme-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/css/styles.css?ver=1643952209' type='text/css' media='' />
+<link data-minify="1" rel='stylesheet' id='tie-theme-child-css-css'  href='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/style.css?ver=1643952209' type='text/css' media='all' />
+<style id='tie-theme-child-css-inline-css' type='text/css'>
+.wf-active .logo-text,.wf-active h1,.wf-active h2,.wf-active h3,.wf-active h4,.wf-active h5,.wf-active h6,.wf-active .the-subtitle{font-family: 'Overlock';}.wf-active #main-nav .main-menu > ul > li > a{font-family: 'Pontano Sans';}#main-nav .main-menu > ul > li > a{font-size: 14px;}#tie-body{background-color: #ffffff;}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #eebb1c;}#instagram-link a:hover{color: #eebb1c !important;border-color: #eebb1c !important;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #eebb1c;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #eebb1c;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #eebb1c;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #eebb1c;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #eebb1c;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #eebb1c;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #eebb1c;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #eebb1c;}#footer-widgets-container{border-top: 8px solid #eebb1c;-webkit-box-shadow: 0 -5px 0 rgba(0,0,0,0.07); -moz-box-shadow: 0 -8px 0 rgba(0,0,0,0.07); box-shadow: 0 -8px 0 rgba(0,0,0,0.07);}::-moz-selection{background-color: #eebb1c;color: #FFFFFF;}::selection{background-color: #eebb1c;color: #FFFFFF;}circle.circle_bar{stroke: #eebb1c;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 238,187,28,0.7);}#logo.text-logo a:hover,.entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #bc8900;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #bc8900;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #eebb1c;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .mag-box-title h3 a,#tie-body .block-more-button{color: #eebb1c;}#tie-body .mag-box-title h3 a:hover,#tie-body .block-more-button:hover{color: #bc8900;}#tie-body .mag-box-title{color: #eebb1c;}#tie-body .mag-box-title:before{border-top-color: #eebb1c;}#tie-body .mag-box-title:after,#tie-body #footer .widget-title:after{background-color: #eebb1c;}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #eebb1c;}#instagram-link a:hover{color: #eebb1c !important;border-color: #eebb1c !important;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #eebb1c;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #eebb1c;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #eebb1c;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #eebb1c;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #eebb1c;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #eebb1c;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #eebb1c;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #eebb1c;}#footer-widgets-container{border-top: 8px solid #eebb1c;-webkit-box-shadow: 0 -5px 0 rgba(0,0,0,0.07); -moz-box-shadow: 0 -8px 0 rgba(0,0,0,0.07); box-shadow: 0 -8px 0 rgba(0,0,0,0.07);}::-moz-selection{background-color: #eebb1c;color: #FFFFFF;}::selection{background-color: #eebb1c;color: #FFFFFF;}circle.circle_bar{stroke: #eebb1c;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 238,187,28,0.7);}#logo.text-logo a:hover,.entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #bc8900;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #bc8900;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #eebb1c;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .mag-box-title h3 a,#tie-body .block-more-button{color: #eebb1c;}#tie-body .mag-box-title h3 a:hover,#tie-body .block-more-button:hover{color: #bc8900;}#tie-body .mag-box-title{color: #eebb1c;}#tie-body .mag-box-title:before{border-top-color: #eebb1c;}#tie-body .mag-box-title:after,#tie-body #footer .widget-title:after{background-color: #eebb1c;}#top-nav a:not(:hover),#top-nav input,#top-nav #search-submit,#top-nav .fa-spinner,#top-nav .dropdown-social-icons li a span,#top-nav .components > li .social-link:not(:hover) span,.search-in-top-nav.autocomplete-suggestions a{color: #494949;}#top-nav .menu-item-has-children > a:before{border-top-color: #494949;}#top-nav li .menu-item-has-children > a:before{border-top-color: transparent;border-left-color: #494949;}.rtl #top-nav .menu li .menu-item-has-children > a:before{border-left-color: transparent;border-right-color: #494949;}#top-nav input::-moz-placeholder{color: #494949;}#top-nav input:-moz-placeholder{color: #494949;}#top-nav input:-ms-input-placeholder{color: #494949;}#top-nav input::-webkit-input-placeholder{color: #494949;}#top-nav .comp-sub-menu .button:hover,#top-nav .checkout-button,.search-in-top-nav.autocomplete-suggestions .button{background-color: #fcdd21;}#top-nav a:hover,#top-nav .menu li:hover > a,#top-nav .menu > .tie-current-menu > a,#top-nav .components > li:hover > a,#top-nav .components #search-submit:hover,.search-in-top-nav.autocomplete-suggestions .post-title a:hover{color: #fcdd21;}#top-nav .comp-sub-menu .button:hover{border-color: #fcdd21;}#top-nav .tie-current-menu > a:before,#top-nav .menu .menu-item-has-children:hover > a:before{border-top-color: #fcdd21;}#top-nav .menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #fcdd21;}.rtl #top-nav .menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #fcdd21;}#top-nav .comp-sub-menu .button:hover,#top-nav .comp-sub-menu .checkout-button,.search-in-top-nav.autocomplete-suggestions .button{color: #000000;}#top-nav .comp-sub-menu .checkout-button:hover,.search-in-top-nav.autocomplete-suggestions .button:hover{background-color: #debf03;}#top-nav,#top-nav .comp-sub-menu,#top-nav .tie-weather-widget{color: #3f3f3f;}.search-in-top-nav.autocomplete-suggestions .post-meta,.search-in-top-nav.autocomplete-suggestions .post-meta a:not(:hover){color: rgba( 63,63,63,0.7 );}#top-nav .weather-icon .icon-cloud,#top-nav .weather-icon .icon-basecloud-bg,#top-nav .weather-icon .icon-cloud-behind{color: #3f3f3f !important;}#top-nav .breaking-title{color: #FFFFFF;}#top-nav .breaking-title:before{background-color: #eebb1c;}#top-nav .breaking-news-nav li:hover{background-color: #eebb1c;border-color: #eebb1c;}#footer{background-color: #fff9f0;background-image: url(1);background-repeat: no-repeat;background-size: initial; background-attachment: scroll;background-position: center bottom;}#site-info{background-color: #;}#footer .posts-list-counter .posts-list-items li:before{border-color: #fff9f0;}#footer .timeline-widget a .date:before{border-color: rgba(255,249,240,0.8);}#footer .footer-boxed-widget-area,#footer textarea,#footer input:not([type=submit]),#footer select,#footer code,#footer kbd,#footer pre,#footer samp,#footer .show-more-button,#footer .slider-links .tie-slider-nav span,#footer #wp-calendar,#footer #wp-calendar tbody td,#footer #wp-calendar thead th,#footer .widget.buddypress .item-options a{border-color: rgba(0,0,0,0.1);}#footer .social-statistics-widget .white-bg li.social-icons-item a,#footer .widget_tag_cloud .tagcloud a,#footer .latest-tweets-widget .slider-links .tie-slider-nav span,#footer .widget_layered_nav_filters a{border-color: rgba(0,0,0,0.1);}#footer .social-statistics-widget .white-bg li:before{background: rgba(0,0,0,0.1);}.site-footer #wp-calendar tbody td{background: rgba(0,0,0,0.02);}#footer .white-bg .social-icons-item a span.followers span,#footer .circle-three-cols .social-icons-item a .followers-num,#footer .circle-three-cols .social-icons-item a .followers-name{color: rgba(0,0,0,0.8);}#footer .timeline-widget ul:before,#footer .timeline-widget a:not(:hover) .date:before{background-color: #e1dbd2;}#footer .widget-title,#footer .widget-title a:not(:hover){color: #333333;}#footer,#footer textarea,#footer input:not([type='submit']),#footer select,#footer #wp-calendar tbody,#footer .tie-slider-nav li span:not(:hover),#footer .widget_categories li a:before,#footer .widget_product_categories li a:before,#footer .widget_layered_nav li a:before,#footer .widget_archive li a:before,#footer .widget_nav_menu li a:before,#footer .widget_meta li a:before,#footer .widget_pages li a:before,#footer .widget_recent_entries li a:before,#footer .widget_display_forums li a:before,#footer .widget_display_views li a:before,#footer .widget_rss li a:before,#footer .widget_display_stats dt:before,#footer .subscribe-widget-content h3,#footer .about-author .social-icons a:not(:hover) span{color: #eeeeee;}#footer post-widget-body .meta-item,#footer .post-meta,#footer .stream-title,#footer.dark-skin .timeline-widget .date,#footer .wp-caption .wp-caption-text,#footer .rss-date{color: rgba(238,238,238,0.7);}#footer input::-moz-placeholder{color: #eeeeee;}#footer input:-moz-placeholder{color: #eeeeee;}#footer input:-ms-input-placeholder{color: #eeeeee;}#footer input::-webkit-input-placeholder{color: #eeeeee;}.site-footer.dark-skin a:not(:hover){color: #7f0000;}.site-footer.dark-skin a:hover,#footer .stars-rating-active,#footer .twitter-icon-wrap span,.block-head-4.magazine2 #footer .tabs li a{color: #e8b41b;}#footer .circle_bar{stroke: #e8b41b;}#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover,.block-head-4.magazine2 #footer .tabs{border-color: #e8b41b;}.magazine2:not(.block-head-4) #footer .tabs a:hover,.magazine2:not(.block-head-4) #footer .tabs .active a,.magazine1 #footer .tabs a:hover,.magazine1 #footer .tabs .active a,.block-head-4.magazine2 #footer .tabs.tabs .active a,.block-head-4.magazine2 #footer .tabs > .active a:before,.block-head-4.magazine2 #footer .tabs > li.active:nth-child(n) a:after,#footer .digital-rating-static,#footer .timeline-widget li a:hover .date:before,#footer #wp-calendar #today,#footer .posts-list-counter .posts-list-items li:before,#footer .cat-counter span,#footer.dark-skin .the-global-title:after,#footer .button,#footer [type='submit'],#footer .spinner > div,#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover,#footer .fullwidth-area .tagcloud a:hover{background-color: #e8b41b;color: #FFFFFF;}.block-head-4.magazine2 #footer .tabs li a:hover{color: #ca9600;}.block-head-4.magazine2 #footer .tabs.tabs .active a:hover,#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover{color: #FFFFFF !important;}#footer .button:hover,#footer [type='submit']:hover{background-color: #ca9600;color: #FFFFFF;}#site-info,#site-info ul.social-icons li a:not(:hover) span{color: #eeeeee;}#footer .site-info a:not(:hover){color: #eeeeee;}.tie-cat-190,.tie-cat-item-190 > span{background-color:#e67e22 !important;color:#FFFFFF !important;}.tie-cat-190:after{border-top-color:#e67e22 !important;}.tie-cat-190:hover{background-color:#c86004 !important;}.tie-cat-190:hover:after{border-top-color:#c86004 !important;}.tie-cat-191,.tie-cat-item-191 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-191:after{border-top-color:#2ecc71 !important;}.tie-cat-191:hover{background-color:#10ae53 !important;}.tie-cat-191:hover:after{border-top-color:#10ae53 !important;}.tie-cat-192,.tie-cat-item-192 > span{background-color:#9b59b6 !important;color:#FFFFFF !important;}.tie-cat-192:after{border-top-color:#9b59b6 !important;}.tie-cat-192:hover{background-color:#7d3b98 !important;}.tie-cat-192:hover:after{border-top-color:#7d3b98 !important;}.tie-cat-193,.tie-cat-item-193 > span{background-color:#34495e !important;color:#FFFFFF !important;}.tie-cat-193:after{border-top-color:#34495e !important;}.tie-cat-193:hover{background-color:#162b40 !important;}.tie-cat-193:hover:after{border-top-color:#162b40 !important;}.tie-cat-194,.tie-cat-item-194 > span{background-color:#795548 !important;color:#FFFFFF !important;}.tie-cat-194:after{border-top-color:#795548 !important;}.tie-cat-194:hover{background-color:#5b372a !important;}.tie-cat-194:hover:after{border-top-color:#5b372a !important;}.tie-cat-195,.tie-cat-item-195 > span{background-color:#4CAF50 !important;color:#FFFFFF !important;}.tie-cat-195:after{border-top-color:#4CAF50 !important;}.tie-cat-195:hover{background-color:#2e9132 !important;}.tie-cat-195:hover:after{border-top-color:#2e9132 !important;}@media (min-width: 1200px){.container{width: auto;}}.boxed-layout #tie-wrapper,.boxed-layout .fixed-nav{max-width: 1054px;}@media (min-width: 1024px){.container,.wide-next-prev-slider-wrapper .slider-main-container{max-width: 1024px;}}@media (max-width: 991px){.side-aside #mobile-menu .menu > li{border-color: rgba(0,0,0,0.05);}}@media (max-width: 991px){.side-aside.dark-skin{background-color: #edcd6f;}}.side-aside #mobile-menu li a,.side-aside #mobile-menu .mobile-arrows,.side-aside #mobile-search .search-field{color: #494949;}#mobile-search .search-field::-moz-placeholder {color: #494949;}#mobile-search .search-field:-moz-placeholder {color: #494949;}#mobile-search .search-field:-ms-input-placeholder {color: #494949;}#mobile-search .search-field::-webkit-input-placeholder {color: #494949;}@media (max-width: 991px){.tie-btn-close span{color: #494949;}}#mobile-social-icons .social-icons-item a:not(:hover) span{color: #230000!important;}.mobile-header-components li.custom-menu-link > a,#mobile-menu-icon .menu-text{color: #2d2d2d!important;}#mobile-menu-icon .nav-icon,#mobile-menu-icon .nav-icon:before,#mobile-menu-icon .nav-icon:after{background-color: #2d2d2d!important;}
+</style>
+<script type='text/javascript' src='https://www.gstatic.com/firebasejs/8.5.0/firebase-app.js?ver=1.0.2' id='firebase-app-js' defer></script>
+<script type='text/javascript' src='https://www.gstatic.com/firebasejs/8.5.0/firebase-auth.js?ver=1.0.2' id='firebase-auth-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/bemypet-firebase/public/js-dist/bemypet-firebase-initialize.js?ver=1643952209' id='bemypet-firebase-initialize-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/js/naveridlogin_js_sdk_2.0.2.js?ver=1643952165' id='naver-login-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1643952209' id='gtm4wp-form-move-tracker-js' defer></script>
+<link rel="https://api.w.org/" href="https://mypetlife.co.kr/wp-json/" /><link rel="alternate" type="application/json" href="https://mypetlife.co.kr/wp-json/wp/v2/posts/107933" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mypetlife.co.kr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mypetlife.co.kr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.3" />
+<link rel='shortlink' href='https://mypetlife.co.kr/?p=107933' />
+<link rel="alternate" type="application/json+oembed" href="https://mypetlife.co.kr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmypetlife.co.kr%2F107933%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mypetlife.co.kr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmypetlife.co.kr%2F107933%2F&#038;format=xml" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://mypetlife.co.kr/wp-admin/admin-ajax.php" , "your_rating":"회원님의 별점:"};
+/* ]]> */
+</script>
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+var google_tag_params = {"pageTitle":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0 &ndash; \ube44\ub9c8\uc774\ud3ab \ub77c\uc774\ud504","pagePostType":"post","pagePostType2":"single-post","pageCategory":["%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99"],"pageAttributes":["%ea%b0%95%ec%95%84%ec%a7%80-%ea%b0%90%ec%a0%95","%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%80","%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%8c","%ea%b0%95%ec%95%84%ec%a7%80-%eb%b3%b4%ed%98%b8%ec%9e%90","%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99","%ea%b0%95%ec%95%84%ec%a7%80%ea%b0%80-%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%a0-%eb%95%8c"],"pagePostAuthorID":20880,"pagePostAuthor":"\ubabd\uc774\uc5b8\ub2c8","pagePostDate":"2021\ub144 10\uc6d4 19\uc77c","pagePostDateYear":"2021","pagePostDateMonth":"10","pagePostDateDay":"19","pagePostTerms":{"category":["\uac15\uc544\uc9c0 \ud589\ub3d9"],"post_tag":["\uac15\uc544\uc9c0 \uac10\uc815","\uac15\uc544\uc9c0 \uace0\ub9c8\uc6c0","\uac15\uc544\uc9c0 \uace0\ub9c8\uc6cc","\uac15\uc544\uc9c0 \ubcf4\ud638\uc790","\uac15\uc544\uc9c0 \ud589\ub3d9","\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c"]},"postID":107933,"postFormat":"standard"};
+	var dataLayer_content = {"visitorLoginState":"logged-out","pageTitle":"강아지가 고마워할 때 보이는 행동 6가지 &ndash; 비마이펫 라이프","pagePostType":"post","pagePostType2":"single-post","pageCategory":["%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99"],"pageAttributes":["%ea%b0%95%ec%95%84%ec%a7%80-%ea%b0%90%ec%a0%95","%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%80","%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%8c","%ea%b0%95%ec%95%84%ec%a7%80-%eb%b3%b4%ed%98%b8%ec%9e%90","%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99","%ea%b0%95%ec%95%84%ec%a7%80%ea%b0%80-%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%a0-%eb%95%8c"],"pagePostAuthorID":20880,"pagePostAuthor":"몽이언니","pagePostDate":"2021년 10월 19일","pagePostDateYear":"2021","pagePostDateMonth":"10","pagePostDateDay":"19","pagePostTerms":{"category":["강아지 행동"],"post_tag":["강아지 감정","강아지 고마움","강아지 고마워","강아지 보호자","강아지 행동","강아지가 고마워할 때"]},"postID":107933,"postFormat":"standard","google_tag_params":window.google_tag_params};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRPD4SK');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="fb:app_id" content="171574110150456" />
+<meta property="fb:pages" content="1943795345851120" />
+<meta name="naver-site-verification" content="e0982e39cc32a5fff430e7806b0f1fa4f911b6f1"/>
+<meta name="google-site-verification" content="cG8ai29A_PzKB7KtdFeCD6JUq3iiR1wbuzjJfon5TZg" />
+<meta name="theme-color" content="#eebb1c" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="fb:app_id" content="171574110150456" /><style type="text/css" media="all">
+
+	/* CMA inline styles */
+    .cma_sticky_background {
+        background: #EEEEEE !important;
+    }
+        /* CMA Custom CSS */
+    .cma-thread-orderby {display: inline}
+.cma-thread-resolved-flag {display: none}
+.cma-thread-answers {background-color: #eebb1c !important; color: black !important; border-color: #eebb1c !important}
+.cma-thread-no-answers {background-color:#08f !important; border-color: #08f !important; color: white !important;}
+@media only screen and (max-width: 800px){
+	.cma-thread-meta-div { display: grid; grid:30px / auto auto auto;}
+	.cma-thread-numbers-count  {font-size: 10px !important}
+	.cma-thread-list-header{display: none !important;}
+	.cma-thread-numbers{text-align:center!important}
+        .cma-thread-votes-caption{font-size: 10px !important}}
+
+.cma-form-container input[type="submit"] {display: block}
+.cma-thread-title {margin-left:0.5em}
+.cma-thread-resolve-form {
+	margin: 4em 0em 0em 0em;}
+.cma-thread-list-header {margin-left: -8px;}
+
+form.cma-thread-resolve-form {
+    display: none;
+}
+
+.cma-answer-author img {
+    width: 100px;
+}
+.cma-answer-meta {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.cma-question-meta {
+    /* width: 100%; */
+    display: inline-block;
+    margin-top: 20px;
+}
+</style>
+
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://mypetlife.co.kr");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '5964fb87-b9da-401a-9a93-1cfc52d8f834';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "구독해주셔서 감사합니다";
+oneSignal_options['path'] = "https://mypetlife.co.kr/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.4058b815-86ea-44b3-9131-733c406f5a63";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "비마이펫에서 작성되는 새로운 글에 대하여 알림을 드리고 싶습니다 :)";
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = "알림 설정";
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = "새로운 글에 대한 알림을 드리고 싶습니다";
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = "알림 설정";
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = "새로운 글에 대한 알림을 드리고 싶습니다";
+oneSignal_options['promptOptions']['acceptButtonText'] = "수락";
+oneSignal_options['promptOptions']['cancelButtonText'] = "거절";
+oneSignal_options['promptOptions']['siteName'] = "https://mypetlife.co.kr";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "수락";
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://images.mypetlife.co.kr/content/uploads/2017/11/09161646/cropped-logo_size_icon-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://images.mypetlife.co.kr/content/uploads/2017/11/09161646/cropped-logo_size_icon-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://images.mypetlife.co.kr/content/uploads/2017/11/09161646/cropped-logo_size_icon-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://images.mypetlife.co.kr/content/uploads/2017/11/09161646/cropped-logo_size_icon-1-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*Should Delete After Updating to Version 1.5.2 */
+div#bemypet-review-intro p {
+    margin: 10px 0;
+    font-style: italic;
+}
+
+a.related-product-button img {
+    border-radius: 15px;
+}
+
+span.md-product-name:not(:last-child):after {
+    content: ', ';
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>            </head>
+
+            <body id="tie-body" class="post-template-default single single-post postid-107933 single-format-standard wrapper-has-shadow block-head-1 magazine1 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_back_top_button elementor-default elementor-kit-85947">
+
+            
+
+            <div class="background-overlay">
+
+                <div id="tie-container" class="site tie-container">
+
+                    
+                    <div id="tie-wrapper">
+
+
+<header id="theme-header" class="theme-header header-layout-1 main-nav-light main-nav-default-light main-nav-above no-stream-item top-nav-active top-nav-dark top-nav-default-dark top-nav-above has-normal-width-logo mobile-header-default">
+	
+<nav id="top-nav"  class="has-menu-components top-nav header-nav" aria-label="Secondary Navigation">
+	<div class="container">
+		<div class="topbar-wrapper">
+
+			<div class="tie-alignleft">
+				<div class="top-menu header-menu"><ul id="menu-tielabs-secondry-menu" class="menu"><li id="menu-item-92625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-92625"><a href="https://mypetlife.co.kr">라이프</a></li>
+<li id="menu-item-32129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32129"><a href="https://creators.mypetlife.co.kr">크리에이터즈</a></li>
+<li id="menu-item-26695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26695"><a href="https://tools.mypetlife.co.kr/">툴즈</a></li>
+<li id="menu-item-50545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50545"><a href="https://mypetlife.co.kr/cbh/">동물등록</a></li>
+<li id="menu-item-96362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96362"><a href="https://store.bemypet.kr">스토어</a></li>
+</ul></div>			</div><!-- .tie-alignleft /-->
+
+			<div class="tie-alignright">
+                <ul class="custom-components">
+                    <li>
+                        <a class="custom-top-nav" href="/account">로그인</a>                    </li>
+
+                </ul>
+				<ul class="components"> <li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/bemypet.official/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.youtube.com/channel/UClljZ2pw3YZFVGq6EQgJVyQ"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="http://facebook.com/bemypetkr"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li> </ul><!-- Components -->
+			</div><!-- .tie-alignright /-->
+
+		</div><!-- .topbar-wrapper /-->
+	</div><!-- .container /-->
+</nav><!-- #top-nav /-->
+
+    <div class="main-nav-wrapper">
+        <nav id="main-nav"  class="main-nav header-nav" style="line-height:110px" aria-label="Primary Navigation">
+            <div class="container">
+
+                <div class="main-menu-wrapper">
+
+                    
+                        <div class="header-layout-1-logo" style="width:300px">
+                            
+		<div id="logo" class="image-logo" >
+
+			
+			<a title="비마이펫 라이프" href="https://mypetlife.co.kr/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					<source class="tie-logo-source-default tie-logo-source" data-lazy-srcset="https://images.mypetlife.co.kr/content/icons/bemypet-logo.png">
+					<img class="tie-logo-img-default tie-logo-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2070'%3E%3C/svg%3E" alt="비마이펫 라이프" width="300" height="70" style="max-height:70px; width: auto;" data-lazy-src="https://images.mypetlife.co.kr/content/icons/bemypet-logo.png" /><noscript><img class="tie-logo-img-default tie-logo-img" src="https://images.mypetlife.co.kr/content/icons/bemypet-logo.png" alt="비마이펫 라이프" width="300" height="70" style="max-height:70px; width: auto;" /></noscript>
+				</picture>
+						</a>
+
+			
+		</div><!-- #logo /-->
+
+		                        </div>
+
+                        <div id="mobile-header-components-area_2" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class=""><span class="tie-mobile-menu-icon nav-icon is-layout-1"></span><span class="screen-reader-text">메뉴</span></a></li> <li class="mobile-component_search custom-menu-link">
+				<a href="#" class="tie-search-trigger-mobile">
+					<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">검색</span>
+				</a>
+			</li></ul></div>
+                    <div id="menu-components-wrap">
+
+                        
+                        <div class="main-menu main-menu-wrap tie-alignleft">
+                            <div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-pc-main-menu" class="menu" role="menubar"><li id="menu-item-103386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103386"><a href="/dog-lab">강아지 연구소</a></li>
+<li id="menu-item-103387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103387"><a href="/cat-lab">고양이 연구소</a></li>
+<li id="menu-item-103388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103388"><a href="/product-lab">제품 연구소</a></li>
+<li id="menu-item-103389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103389"><a href="/subscribe">뉴스레터</a></li>
+</ul></div>                        </div><!-- .main-menu.tie-alignleft /-->
+
+                        
+                    </div><!-- #menu-components-wrap /-->
+                </div><!-- .main-menu-wrapper /-->
+            </div><!-- .container /-->
+        </nav><!-- #main-nav /-->
+    </div><!-- .main-nav-wrapper /-->
+
+</header>
+
+<div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+
+    <div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+
+        
+        <article id="the-post" class="container-wrapper post-content tie-standard">
+
+            
+<header class="entry-header-outer">
+
+	<nav id="breadcrumb"><a href="https://mypetlife.co.kr/"><span class="tie-icon-home" aria-hidden="true"></span> 홈</a><em class="delimiter">/</em><a href="https://mypetlife.co.kr/category/doglab/">강아지 연구소</a><em class="delimiter">/</em><a href="https://mypetlife.co.kr/category/doglab/%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99/">강아지 행동</a><em class="delimiter">/</em><span class="current">강아지가 고마워할 때 보이는 행동 6가지</span></nav><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","@id":"#Breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"\ud648","@id":"https:\/\/mypetlife.co.kr\/"}},{"@type":"ListItem","position":2,"item":{"name":"\uac15\uc544\uc9c0 \uc5f0\uad6c\uc18c","@id":"https:\/\/mypetlife.co.kr\/category\/doglab\/"}},{"@type":"ListItem","position":3,"item":{"name":"\uac15\uc544\uc9c0 \ud589\ub3d9","@id":"https:\/\/mypetlife.co.kr\/category\/doglab\/%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99\/"}}]}</script>
+	<div class="entry-header">
+
+		<span class="post-cat-wrap"></span>
+		<h1 class="post-title entry-title">강아지가 고마워할 때 보이는 행동 6가지</h1>
+
+		<div id="single-post-meta" class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 10월 19일</span><div class="tie-alignright"><span class="meta-comment tie-icon meta-item fa-before">0</span><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 2분 읽을거리</span> </div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+
+	
+	
+</header><!-- .entry-header-outer /-->
+
+
+            <div class="entry-content entry clearfix">
+
+                
+                                        
+<p>강아지가 사람을 좋아하고 따른다는 건 쉽게 알 수 있어요.  하지만, 강아지가 우리에게 &#8216;고마움&#8217;을 느끼는 건 쉽게 알기 어려운데요. 과연 강아지는 보호자에게 고마움을 느낄까요? 그렇다면, 강아지가 고마워할 때 보이는 행동은 어떤 게 있을까요?</p>
+<p><img class="aligncenter wp-image-107935 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20691'%3E%3C/svg%3E" alt="강아지가 고마워할 때" width="1024" height="691" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1024x691.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-300x202.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-768x518.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1536x1036.jpg 1536w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg 1638w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1024x691.jpg" /><noscript><img class="aligncenter wp-image-107935 size-large" src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1024x691.jpg" alt="강아지가 고마워할 때" width="1024" height="691" srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1024x691.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-300x202.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-768x518.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843-1536x1036.jpg 1536w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151253/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg 1638w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<h2>강아지가 고마워할 때 보이는 행동</h2>
+<h3>강아지는 고마움을 느낄까?</h3>
+<p>결론부터 말하지면, 강아지는 보호자의 행동에 단순히 행복이나 기쁨이 아닌 &#8216;고마움&#8217;을 느낄 수 있습니다. </p><div class="stream-item stream-item-in-post stream-item-inline-post aligncenter"><a id="LinksRef" rel="nofollow" target="_blank">
+<img id='BannersSrc' alt="비마이펫배너광고">
+</a>
+
+<script>
+var Banners= [
+'https://images.mypetlife.co.kr/content/uploads/2021/06/04172101/2000x500_%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B0%B0%EB%84%88_3_0604.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/09/13091855/review_contents_category_in-article-banner-3.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/09/13090206/review_contents_apply_banner.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/11/22174053/dog-registration-inarticle2.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/11/22174051/dog-registration-inarticle1.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/11/17174149/lili_cushion_toy_banner.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/11/17174150/laptop_sleeve_banner.png',
+'https://images.mypetlife.co.kr/content/uploads/2021/12/01170933/1_%EC%A0%9C%EB%B3%B4%ED%95%98%EA%B8%B0_%EC%8B%A4%EC%82%AC_%EB%9D%BC%EC%9D%B4%ED%94%84_1000X250.png',
+'https://images.mypetlife.co.kr/content/uploads/2022/01/13113657/kakao-emoticon-samsek-250.png',
+]
+
+var Links= [
+'https://store.bemypet.kr/product-category/characters/?utm_source=bemypet&utm_medium=bemypetlife&utm_campaign=life-banner',
+'https://creators.mypetlife.co.kr/category/contents/jipsa-recommended/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=review_contents',
+'https://creators.mypetlife.co.kr/jipsa-recommended/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=review_contents',
+'https://mypetlife.co.kr/cbh/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=mypetlife-banner',
+'https://mypetlife.co.kr/cbh/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=mypetlife-banner',
+'https://store.bemypet.kr/product/%eb%a6%ac%eb%a6%ac-%ed%95%84%eb%a1%9c%ec%9a%b0-%ec%9d%b8%ed%98%95/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=lili_plush_toy',
+'https://store.bemypet.kr/product/%eb%a6%ac%eb%a6%ac-%ea%b0%95%ec%95%84%ec%a7%80-%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%bf%a0%ec%85%98/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=lili_plush_toy',
+'https://store.bemypet.kr/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=laptop_sleeve',
+'https://creators.mypetlife.co.kr/jaebo/?utm_source=creators&utm_medium=creators&utm_campaign=jaebo',
+'https://e.kakao.com/t/lo-and-behold-the-great-samsek',
+];
+
+var Classes=[
+'advertiser-banner-store-character',
+'advertiser-banner-review_contents-read',
+'advertiser-banner-review_contents-apply',
+'advertiser-banner-dog-registration',
+'advertiser-banner-dog-registration',
+'advertiser-banner-store-character',
+'advertiser-banner-store-character',
+'advertiser-banner-store-character',
+'advertiser-banner-store-jaebo-real-picture',
+'advertiser-banner-kakao-emoticon',
+];
+
+var size = Banners.length
+var x = Math.floor(size*Math.random())
+document.getElementById('BannersSrc').src=Banners[x];
+document.getElementById('LinksRef').href=Links[x];
+document.getElementById('BannersSrc').setAttribute('class', Classes[x]);
+document.getElementById('LinksRef').setAttribute('class', Classes[x]);
+</script></div>
+<p>이는 오스트리아 <a href="https://link.springer.com/article/10.1007%2Fs10071-017-1092-8" target="_blank" rel="noopener">비엔나 대학의 연구</a>에 의한 결과인데요. 이 연구에 의하면 강아지에게는 사람의 감정을 이해하고 공감하는 능력이 있다고 합니다. 강아지에게 다양한 소리를 들려주었을 때, 웃는 소리, 우는소리 등의 감정적인 소리에 특히 더 반응했다고 해요.</p>
+<p>이처럼 강아지에게는 공감 능력이 있는데요. 이는 강아지가 고마움 역시 느낄 수 있다는 걸 의미한다고 합니다.</p>
+<p>종종 강아지는 고마움을 느낄 수 없다는 이야기도 있는데요. 하지만 강아지도 고마움을 느낀다는 건, 보호자라면 분명 알 수 있을 거예요.</p>
+<p><img class="aligncenter wp-image-107936 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20682'%3E%3C/svg%3E" alt="강아지가 고마워할 때" width="1024" height="682" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-1024x682.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-300x200.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-768x512.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-1024x682.jpg" /><noscript><img class="aligncenter wp-image-107936 size-large" src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-1024x682.jpg" alt="강아지가 고마워할 때" width="1024" height="682" srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-1024x682.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-300x200.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-768x512.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<h3>강아지가 고마워할 때 보이는 행동</h3>
+<p>강아지가 고마워할 때 보이는 행동은, 기쁘고 <a href="https://mypetlife.co.kr/21141/" target="_blank" rel="noopener">행복</a>할 때 하는 행동과 비슷한데요. 그중에서도 특히 고마움을 표현할 때 많이 하는 행동은 아래와 같다고 합니다.</p>
+<h4>1. 눈 마주치기</h4>
+<p>일반적으로 강아지는 눈을 마주치는 걸 도전장으로 여겨요. 하지만, 보호자와 눈을 마주치는 건 고마움, <a href="https://mypetlife.co.kr/101692/" target="_blank" rel="noopener">애정표현</a>을 의미하기도 합니다.</p>
+<p>만약 간식을 먹은 후 자꾸 나를 쳐다보며 눈을 마주친다면, &#8216;맛있는 간식을 줘서 고마워!&#8217;라는 의미일 수 있겠죠 🙂</p>
+<h4>2. 꼬리 흔들기</h4>
+<p>꼬리는 강아지가 감정을 표현하는 주된 방법 중 하나입니다. <a href="https://mypetlife.co.kr/premium/%ea%b0%95%ec%95%84%ec%a7%80-%ea%bc%ac%eb%a6%ac-%ed%9d%94%eb%93%a4%ea%b8%b0-%ea%b8%b0%ec%81%98%eb%8b%a4%eb%8a%94-%ec%9d%98%eb%af%b8%eb%a7%8c%ec%9d%80-%ec%95%84%eb%8b%88%ec%95%bc/" target="_blank" rel="noopener">꼬리 흔들기</a>는 강아지가 반가움, 기쁨을 표현하는 행동이라고 흔히 알려져 있는데요. 강아지는 고마움을 표현할 때도 꼬리를 흔들곤 해요.</p>
+<p>만약 강아지가 꼬리를 흔든다면? 보호자에게 고맙다는 표현을 하고 있다고도 이해할 수 있습니다.</p>
+<h4>3. 보호자를 보며 미소 짓기</h4>
+<p>강아지는 간단한 행동으로 고마움을 표현하는데요. 미소를 짓는 게 강아지의 간단한 고마움 표현이라고 합니다. 보통 보호자를 바라보며 살짝 미소를 표정을 짓는다고 합니다. 이는 특히 보호자가 밥을 줄 때 많이 하는 감사 표현이라고 하는데요.</p>
+<p>강아지에게 밥을 챙겨줄 때, 강아지가 나를 바라보는 표정을 자세히 관찰해보도록 합시다 🙂</p>
+<p><img class="aligncenter wp-image-107937 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E" alt="강아지가 고마워할 때" width="1024" height="683" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1024x683.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-300x200.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-768x512.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1536x1024.jpg 1536w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-scaled.jpg 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1024x683.jpg" /><noscript><img class="aligncenter wp-image-107937 size-large" src="https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1024x683.jpg" alt="강아지가 고마워할 때" width="1024" height="683" srcset="https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1024x683.jpg 1024w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-300x200.jpg 300w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-768x512.jpg 768w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-1536x1024.jpg 1536w, https://images.mypetlife.co.kr/content/uploads/2021/10/19151406/mia-anderson-wxfZi8eYdEk-unsplash-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<h4>4. 핥기</h4>
+<p>강아지의 <a href="https://mypetlife.co.kr/450/" target="_blank" rel="noopener">핥는 행동</a>은 대표적인 강아지의 애정 표현 중 하나이기도 한데요. 산책을 한 후, 강아지가 내 손, 발, 얼굴을 핥는다면? 같이 산책을 해줘서 고맙다는 의미일 수 있습니다.</p>
+<h4>5. 안기기</h4>
+<p>보호자라면 강아지가 너무 좋아서 강아지를 꼭 껴안은 적이 있을 거예요. 이때, 강아지가 내 품을 벗어나는 경험을 하신 분도 많으실 텐데요. 사실 강아지는 포옹을 구속받는다고 느껴 답답해하는 경우가 많습니다.</p>
+<p>하지만, 안기는 걸 좋아하는 강아지도 있는데요. 강아지가 나에게 와서 내 품에 안긴다면, 고마움을 표현하는 걸 수 있어요. 이럴 땐 강아지를 쓰다듬어 주면 더 좋겠죠.</p>
+<h4>6. 보호자에게 붙어있기</h4>
+<p>강아지는 보호자와 함께 있을 때 편안함을 느껴요. 만약 <a href="https://mypetlife.co.kr/48217/" target="_blank" rel="noopener">강아지가 보호자를 졸졸 따라다니거나</a>, 계속해서 같이 붙어있으려고 한다면 고마움을 표현하고 있는 걸 수 있어요. </p>
+<p>하지만, 이는 운동량 부족, 도움 요청, 분리불안이 원인인 경우도 있으니 다른 행동도 유심히 살펴보는 게 중요합니다.</p>
+<h3>강아지가 고마워 할 때, 보호자의 반응은?</h3>
+<p>강아지가 고마움을 표현한다면, 배나 등 쓰다듬기, 미소 짓기 등 긍정적인 반응으로 보답해주도록 해요. 또한,  간식, 장난감 등을 통해 보상을 해주는 것도 좋습니다. </p>
+
+                                <div class="stream-item stream-item-below-post-content"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4786722989459138"
+     data-ad-slot="3759055106"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="post-bottom-meta post-bottom-tags post-tags-modern"><div class="post-bottom-meta-title"><span class="tie-icon-tags" aria-hidden="true"></span> 태그</div><span class="tagcloud"><a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80-%ea%b0%90%ec%a0%95/" rel="tag">강아지 감정</a> <a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%80/" rel="tag">강아지 고마움</a> <a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80-%ea%b3%a0%eb%a7%88%ec%9b%8c/" rel="tag">강아지 고마워</a> <a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b3%b4%ed%98%b8%ec%9e%90/" rel="tag">강아지 보호자</a> <a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80-%ed%96%89%eb%8f%99/" rel="tag">강아지 행동</a> <a href="https://mypetlife.co.kr/tag/%ea%b0%95%ec%95%84%ec%a7%80%ea%b0%80-%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%a0-%eb%95%8c/" rel="tag">강아지가 고마워할 때</a></span></div>
+            </div><!-- .entry-content /-->
+
+            		<div id="post-extra-info">
+			<div class="theiaStickySidebar">
+				<div id="single-post-meta" class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 10월 19일</span><div class="tie-alignright"><span class="meta-comment tie-icon meta-item fa-before">0</span><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 2분 읽을거리</span> </div></div><!-- .post-meta -->			</div>
+		</div>
+
+		<div class="clearfix"></div>
+		<script id="tie-schema-json" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","dateCreated":"2021-10-19T15:23:16+09:00","datePublished":"2021-10-19T15:23:16+09:00","dateModified":"2021-10-19T15:31:48+09:00","headline":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0","name":"\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 6\uac00\uc9c0","keywords":"\uac15\uc544\uc9c0 \uac10\uc815,\uac15\uc544\uc9c0 \uace0\ub9c8\uc6c0,\uac15\uc544\uc9c0 \uace0\ub9c8\uc6cc,\uac15\uc544\uc9c0 \ubcf4\ud638\uc790,\uac15\uc544\uc9c0 \ud589\ub3d9,\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c","url":"https:\/\/mypetlife.co.kr\/107933\/","description":"\uac15\uc544\uc9c0\uac00 \uc0ac\ub78c\uc744 \uc88b\uc544\ud558\uace0 \ub530\ub978\ub2e4\ub294 \uac74 \uc27d\uac8c \uc54c \uc218 \uc788\uc5b4\uc694.\u00a0 \ud558\uc9c0\ub9cc, \uac15\uc544\uc9c0\uac00 \uc6b0\ub9ac\uc5d0\uac8c '\uace0\ub9c8\uc6c0'\uc744 \ub290\ub07c\ub294 \uac74 \uc27d\uac8c \uc54c\uae30 \uc5b4\ub824\uc6b4\ub370\uc694. \uacfc\uc5f0 \uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc5d0\uac8c \uace0\ub9c8\uc6c0\uc744 \ub290\ub084\uae4c\uc694? \uadf8\ub807\ub2e4\uba74, \uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\uc740 \uc5b4\ub5a4 \uac8c \uc788\uc744\uae4c\uc694? \uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9 \uac15\uc544\uc9c0\ub294 \uace0\ub9c8\uc6c0\uc744 \ub290\ub084\uae4c? \uacb0\ub860\ubd80\ud130 \ub9d0\ud558\uc9c0\uba74, \uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc758 \ud589\ub3d9\uc5d0 \ub2e8\uc21c\ud788","copyrightYear":"2021","articleSection":"\uac15\uc544\uc9c0 \ud589\ub3d9","articleBody":"\n\uac15\uc544\uc9c0\uac00 \uc0ac\ub78c\uc744 \uc88b\uc544\ud558\uace0 \ub530\ub978\ub2e4\ub294 \uac74 \uc27d\uac8c \uc54c \uc218 \uc788\uc5b4\uc694.\u00a0 \ud558\uc9c0\ub9cc, \uac15\uc544\uc9c0\uac00 \uc6b0\ub9ac\uc5d0\uac8c '\uace0\ub9c8\uc6c0'\uc744 \ub290\ub07c\ub294 \uac74 \uc27d\uac8c \uc54c\uae30 \uc5b4\ub824\uc6b4\ub370\uc694. \uacfc\uc5f0 \uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc5d0\uac8c \uace0\ub9c8\uc6c0\uc744 \ub290\ub084\uae4c\uc694? \uadf8\ub807\ub2e4\uba74, \uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\uc740 \uc5b4\ub5a4 \uac8c \uc788\uc744\uae4c\uc694?\n\n\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\n\uac15\uc544\uc9c0\ub294 \uace0\ub9c8\uc6c0\uc744 \ub290\ub084\uae4c?\n\uacb0\ub860\ubd80\ud130 \ub9d0\ud558\uc9c0\uba74, \uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc758 \ud589\ub3d9\uc5d0 \ub2e8\uc21c\ud788 \ud589\ubcf5\uc774\ub098 \uae30\uc068\uc774 \uc544\ub2cc '\uace0\ub9c8\uc6c0'\uc744 \ub290\ub084 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\u00a0\n\uc774\ub294 \uc624\uc2a4\ud2b8\ub9ac\uc544 \ube44\uc5d4\ub098 \ub300\ud559\uc758 \uc5f0\uad6c\uc5d0 \uc758\ud55c \uacb0\uacfc\uc778\ub370\uc694. \uc774 \uc5f0\uad6c\uc5d0 \uc758\ud558\uba74 \uac15\uc544\uc9c0\uc5d0\uac8c\ub294 \uc0ac\ub78c\uc758 \uac10\uc815\uc744 \uc774\ud574\ud558\uace0 \uacf5\uac10\ud558\ub294 \ub2a5\ub825\uc774 \uc788\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uac15\uc544\uc9c0\uc5d0\uac8c \ub2e4\uc591\ud55c \uc18c\ub9ac\ub97c \ub4e4\ub824\uc8fc\uc5c8\uc744 \ub54c, \uc6c3\ub294 \uc18c\ub9ac, \uc6b0\ub294\uc18c\ub9ac \ub4f1\uc758 \uac10\uc815\uc801\uc778 \uc18c\ub9ac\uc5d0 \ud2b9\ud788 \ub354 \ubc18\uc751\ud588\ub2e4\uace0 \ud574\uc694.\n\uc774\ucc98\ub7fc \uac15\uc544\uc9c0\uc5d0\uac8c\ub294 \uacf5\uac10 \ub2a5\ub825\uc774 \uc788\ub294\ub370\uc694. \uc774\ub294 \uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6c0 \uc5ed\uc2dc \ub290\ub084 \uc218 \uc788\ub2e4\ub294 \uac78 \uc758\ubbf8\ud55c\ub2e4\uace0 \ud569\ub2c8\ub2e4.\n\uc885\uc885 \uac15\uc544\uc9c0\ub294 \uace0\ub9c8\uc6c0\uc744 \ub290\ub084 \uc218 \uc5c6\ub2e4\ub294 \uc774\uc57c\uae30\ub3c4 \uc788\ub294\ub370\uc694. \ud558\uc9c0\ub9cc \uac15\uc544\uc9c0\ub3c4 \uace0\ub9c8\uc6c0\uc744 \ub290\ub080\ub2e4\ub294 \uac74, \ubcf4\ud638\uc790\ub77c\uba74 \ubd84\uba85 \uc54c \uc218 \uc788\uc744 \uac70\uc608\uc694.\n\n\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\n\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc\ud560 \ub54c \ubcf4\uc774\ub294 \ud589\ub3d9\uc740, \uae30\uc058\uace0 \ud589\ubcf5\ud560 \ub54c \ud558\ub294 \ud589\ub3d9\uacfc \ube44\uc2b7\ud55c\ub370\uc694. \uadf8\uc911\uc5d0\uc11c\ub3c4 \ud2b9\ud788 \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud560 \ub54c \ub9ce\uc774 \ud558\ub294 \ud589\ub3d9\uc740 \uc544\ub798\uc640 \uac19\ub2e4\uace0 \ud569\ub2c8\ub2e4.\n1. \ub208 \ub9c8\uc8fc\uce58\uae30\n\uc77c\ubc18\uc801\uc73c\ub85c \uac15\uc544\uc9c0\ub294 \ub208\uc744 \ub9c8\uc8fc\uce58\ub294 \uac78 \ub3c4\uc804\uc7a5\uc73c\ub85c \uc5ec\uaca8\uc694. \ud558\uc9c0\ub9cc, \ubcf4\ud638\uc790\uc640 \ub208\uc744 \ub9c8\uc8fc\uce58\ub294 \uac74 \uace0\ub9c8\uc6c0, \uc560\uc815\ud45c\ud604\uc744 \uc758\ubbf8\ud558\uae30\ub3c4 \ud569\ub2c8\ub2e4.\n\ub9cc\uc57d \uac04\uc2dd\uc744 \uba39\uc740 \ud6c4 \uc790\uafb8 \ub098\ub97c \uccd0\ub2e4\ubcf4\uba70 \ub208\uc744 \ub9c8\uc8fc\uce5c\ub2e4\uba74, '\ub9db\uc788\ub294 \uac04\uc2dd\uc744 \uc918\uc11c \uace0\ub9c8\uc6cc!'\ub77c\ub294 \uc758\ubbf8\uc77c \uc218 \uc788\uaca0\uc8e0 :)\n2. \uaf2c\ub9ac \ud754\ub4e4\uae30\n\uaf2c\ub9ac\ub294 \uac15\uc544\uc9c0\uac00 \uac10\uc815\uc744 \ud45c\ud604\ud558\ub294 \uc8fc\ub41c \ubc29\ubc95 \uc911 \ud558\ub098\uc785\ub2c8\ub2e4. \uaf2c\ub9ac \ud754\ub4e4\uae30\ub294 \uac15\uc544\uc9c0\uac00 \ubc18\uac00\uc6c0, \uae30\uc068\uc744 \ud45c\ud604\ud558\ub294 \ud589\ub3d9\uc774\ub77c\uace0 \ud754\ud788 \uc54c\ub824\uc838 \uc788\ub294\ub370\uc694. \uac15\uc544\uc9c0\ub294 \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud560 \ub54c\ub3c4 \uaf2c\ub9ac\ub97c \ud754\ub4e4\uace4 \ud574\uc694.\n\ub9cc\uc57d \uac15\uc544\uc9c0\uac00 \uaf2c\ub9ac\ub97c \ud754\ub4e0\ub2e4\uba74? \ubcf4\ud638\uc790\uc5d0\uac8c \uace0\ub9d9\ub2e4\ub294 \ud45c\ud604\uc744 \ud558\uace0 \uc788\ub2e4\uace0\ub3c4 \uc774\ud574\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n3. \ubcf4\ud638\uc790\ub97c \ubcf4\uba70 \ubbf8\uc18c \uc9d3\uae30\n\uac15\uc544\uc9c0\ub294 \uac04\ub2e8\ud55c \ud589\ub3d9\uc73c\ub85c \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud558\ub294\ub370\uc694. \ubbf8\uc18c\ub97c \uc9d3\ub294 \uac8c \uac15\uc544\uc9c0\uc758 \uac04\ub2e8\ud55c \uace0\ub9c8\uc6c0 \ud45c\ud604\uc774\ub77c\uace0 \ud569\ub2c8\ub2e4. \ubcf4\ud1b5 \ubcf4\ud638\uc790\ub97c \ubc14\ub77c\ubcf4\uba70 \uc0b4\uc9dd \ubbf8\uc18c\ub97c \ud45c\uc815\uc744 \uc9d3\ub294\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uc774\ub294 \ud2b9\ud788 \ubcf4\ud638\uc790\uac00 \ubc25\uc744 \uc904 \ub54c \ub9ce\uc774 \ud558\ub294 \uac10\uc0ac \ud45c\ud604\uc774\ub77c\uace0 \ud558\ub294\ub370\uc694.\n\uac15\uc544\uc9c0\uc5d0\uac8c \ubc25\uc744 \ucc59\uaca8\uc904 \ub54c, \uac15\uc544\uc9c0\uac00 \ub098\ub97c \ubc14\ub77c\ubcf4\ub294 \ud45c\uc815\uc744 \uc790\uc138\ud788 \uad00\ucc30\ud574\ubcf4\ub3c4\ub85d \ud569\uc2dc\ub2e4 :)\n\n4. \ud565\uae30\n\uac15\uc544\uc9c0\uc758 \ud565\ub294 \ud589\ub3d9\uc740 \ub300\ud45c\uc801\uc778 \uac15\uc544\uc9c0\uc758 \uc560\uc815 \ud45c\ud604 \uc911 \ud558\ub098\uc774\uae30\ub3c4 \ud55c\ub370\uc694. \uc0b0\ucc45\uc744 \ud55c \ud6c4, \uac15\uc544\uc9c0\uac00 \ub0b4 \uc190, \ubc1c, \uc5bc\uad74\uc744 \ud565\ub294\ub2e4\uba74? \uac19\uc774 \uc0b0\ucc45\uc744 \ud574\uc918\uc11c \uace0\ub9d9\ub2e4\ub294 \uc758\ubbf8\uc77c \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n5. \uc548\uae30\uae30\n\ubcf4\ud638\uc790\ub77c\uba74 \uac15\uc544\uc9c0\uac00 \ub108\ubb34 \uc88b\uc544\uc11c \uac15\uc544\uc9c0\ub97c \uaf2d \uaef4\uc548\uc740 \uc801\uc774 \uc788\uc744 \uac70\uc608\uc694. \uc774\ub54c, \uac15\uc544\uc9c0\uac00 \ub0b4 \ud488\uc744 \ubc97\uc5b4\ub098\ub294 \uacbd\ud5d8\uc744 \ud558\uc2e0 \ubd84\ub3c4 \ub9ce\uc73c\uc2e4 \ud150\ub370\uc694. \uc0ac\uc2e4 \uac15\uc544\uc9c0\ub294 \ud3ec\uc639\uc744 \uad6c\uc18d\ubc1b\ub294\ub2e4\uace0 \ub290\uaef4 \ub2f5\ub2f5\ud574\ud558\ub294 \uacbd\uc6b0\uac00 \ub9ce\uc2b5\ub2c8\ub2e4.\n\ud558\uc9c0\ub9cc, \uc548\uae30\ub294 \uac78 \uc88b\uc544\ud558\ub294 \uac15\uc544\uc9c0\ub3c4 \uc788\ub294\ub370\uc694. \uac15\uc544\uc9c0\uac00 \ub098\uc5d0\uac8c \uc640\uc11c \ub0b4 \ud488\uc5d0 \uc548\uae34\ub2e4\uba74, \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud558\ub294 \uac78 \uc218 \uc788\uc5b4\uc694. \uc774\ub7f4 \ub550 \uac15\uc544\uc9c0\ub97c \uc4f0\ub2e4\ub4ec\uc5b4 \uc8fc\uba74 \ub354 \uc88b\uaca0\uc8e0.\n6. \ubcf4\ud638\uc790\uc5d0\uac8c \ubd99\uc5b4\uc788\uae30\n\uac15\uc544\uc9c0\ub294 \ubcf4\ud638\uc790\uc640 \ud568\uaed8 \uc788\uc744 \ub54c \ud3b8\uc548\ud568\uc744 \ub290\uaef4\uc694. \ub9cc\uc57d \uac15\uc544\uc9c0\uac00 \ubcf4\ud638\uc790\ub97c \uc878\uc878 \ub530\ub77c\ub2e4\ub2c8\uac70\ub098, \uacc4\uc18d\ud574\uc11c \uac19\uc774 \ubd99\uc5b4\uc788\uc73c\ub824\uace0 \ud55c\ub2e4\uba74 \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud558\uace0 \uc788\ub294 \uac78 \uc218 \uc788\uc5b4\uc694.\u00a0\n\ud558\uc9c0\ub9cc, \uc774\ub294 \uc6b4\ub3d9\ub7c9 \ubd80\uc871, \ub3c4\uc6c0 \uc694\uccad, \ubd84\ub9ac\ubd88\uc548\uc774 \uc6d0\uc778\uc778 \uacbd\uc6b0\ub3c4 \uc788\uc73c\ub2c8 \ub2e4\ub978 \ud589\ub3d9\ub3c4 \uc720\uc2ec\ud788 \uc0b4\ud3b4\ubcf4\ub294 \uac8c \uc911\uc694\ud569\ub2c8\ub2e4.\n\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6cc \ud560 \ub54c, \ubcf4\ud638\uc790\uc758 \ubc18\uc751\uc740?\n\uac15\uc544\uc9c0\uac00 \uace0\ub9c8\uc6c0\uc744 \ud45c\ud604\ud55c\ub2e4\uba74, \ubc30\ub098 \ub4f1 \uc4f0\ub2e4\ub4ec\uae30, \ubbf8\uc18c \uc9d3\uae30 \ub4f1 \uae0d\uc815\uc801\uc778 \ubc18\uc751\uc73c\ub85c \ubcf4\ub2f5\ud574\uc8fc\ub3c4\ub85d \ud574\uc694. \ub610\ud55c,\u00a0 \uac04\uc2dd, \uc7a5\ub09c\uac10 \ub4f1\uc744 \ud1b5\ud574 \ubcf4\uc0c1\uc744 \ud574\uc8fc\ub294 \uac83\ub3c4 \uc88b\uc2b5\ub2c8\ub2e4.\u00a0\n","publisher":{"@id":"#Publisher","@type":"Organization","name":"\ube44\ub9c8\uc774\ud3ab \ub77c\uc774\ud504","logo":{"@type":"ImageObject","url":"https:\/\/images.mypetlife.co.kr\/content\/icons\/bemypet-logo.png"},"sameAs":["facebook.com\/bemypetkr","https:\/\/www.youtube.com\/channel\/UClljZ2pw3YZFVGq6EQgJVyQ","https:\/\/www.instagram.com\/bemypet.official\/"]},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/mypetlife.co.kr\/107933\/","breadcrumb":{"@id":"#Breadcrumb"}},"author":{"@type":"Person","name":"\ubabd\uc774\uc5b8\ub2c8","url":"https:\/\/mypetlife.co.kr\/author\/eunjinjang\/"},"image":{"@type":"ImageObject","url":"https:\/\/images.mypetlife.co.kr\/content\/uploads\/2021\/10\/19151253\/caleb-fisher-AsCYNjt6IF0-unsplash-scaled-e1634623994843.jpg","width":1638,"height":1105}}</script>
+        </article><!-- #the-post /-->
+
+        <div class="stream-item stream-item-below-post"><script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":360268,"template":"carousel","trackingCode":"AF5797212","width":"680","height":"140"});
+</script></div>
+        <div class="post-components">
+
+            
+		<div class="about-author container-wrapper about-author-20880">
+
+								<div class="author-avatar">
+						<a href="https://mypetlife.co.kr/author/eunjinjang/">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E" width="180" height="180" alt="몽이언니" class="avatar avatar-180 wp-user-avatar wp-user-avatar-180 alignnone photo" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2020/11/09150119/KakaoTalk_20201008_101442002-300x300.jpg" /><noscript><img src="https://images.mypetlife.co.kr/content/uploads/2020/11/09150119/KakaoTalk_20201008_101442002-300x300.jpg" width="180" height="180" alt="몽이언니" class="avatar avatar-180 wp-user-avatar wp-user-avatar-180 alignnone photo" /></noscript>						</a>
+					</div><!-- .author-avatar /-->
+					
+			<div class="author-info">
+				<h3 class="author-name"><a href="https://mypetlife.co.kr/author/eunjinjang/">몽이언니</a></h3>
+
+				<div class="author-bio">
+					스피츠 몽이와 함께 살고 있는 몽이 언니입니다!
+1일 3산책을 실천하려고 노력하고 있습니다 :)
+eunjinjang@bemypet.kr				</div><!-- .author-bio /-->
+
+				<ul class="social-icons"></ul>			</div><!-- .author-info /-->
+			<div class="clearfix"></div>
+		</div><!-- .about-author /-->
+			<div id="comments" class="comments-area">
+
+		
+
+		<div id="add-comment-block" class="container-wrapper">	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title the-global-title">답글 남기기 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/107933/#respond" style="display:none;">응답 취소</a></small></h3><form action="https://mypetlife.co.kr/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">이메일 주소는 공개되지 않습니다.</span> 필수 항목은 <span class="required">*</span>(으)로 표시합니다</p><p class="comment-form-comment"><label for="comment">댓글</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">이름 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">이메일 <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">웹사이트</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="댓글 달기" /> <input type='hidden' name='comment_post_ID' value='107933' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="dba79b717f" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="114"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</div><!-- #add-comment-block /-->
+	</div><!-- .comments-area -->
+
+
+	
+
+				<div id="related-posts" class="container-wrapper">
+
+					<div class="mag-box-title the-global-title">
+						<h3>함께 읽어보세요!</h3>
+					</div>
+
+					<div class="related-posts-list">
+
+					
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지가 으르렁거리는 이유, 부정적인 의미만은 아니에요!" href="https://mypetlife.co.kr/111045/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2022/01/10081427/danil-shostak-ekgNTZtbzz0-unsplash-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2022/01/10081427/danil-shostak-ekgNTZtbzz0-unsplash-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/111045/">강아지가 으르렁거리는 이유, 부정적인 의미만은 아니에요!</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">4주 전</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지 꼬리 내림 뜻 7가지, 긍정적인 의미도 있어?" href="https://mypetlife.co.kr/110956/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2022/01/05105416/pexels-blue-bird-7210646-1-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2022/01/05105416/pexels-blue-bird-7210646-1-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/110956/">강아지 꼬리 내림 뜻 7가지, 긍정적인 의미도 있어?</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">2022년 1월 5일</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지 물건 집착 심하다면 그 이유는?" href="https://mypetlife.co.kr/110700/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/12/23161600/KakaoTalk_20211220_091243853_17-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2021/12/23161600/KakaoTalk_20211220_091243853_17-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/110700/">강아지 물건 집착 심하다면 그 이유는?</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 12월 27일</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지가 구석에서 자거나 숨는 이유 4가지" href="https://mypetlife.co.kr/110195/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/12/09150846/IMG_2963-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2021/12/09150846/IMG_2963-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/110195/">강아지가 구석에서 자거나 숨는 이유 4가지</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 12월 9일</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지 외로움 신호, 버림 받았다고 느낀다고?" href="https://mypetlife.co.kr/109202/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/11/18150631/Image-from-iOS-2-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2021/11/18150631/Image-from-iOS-2-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/109202/">강아지 외로움 신호, 버림 받았다고 느낀다고?</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 11월 18일</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="강아지 신뢰도 테스트 &#8211; 나를 얼마나 믿고 있을까?" href="https://mypetlife.co.kr/108984/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/11/12145111/IMG_2094-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2021/11/12145111/IMG_2094-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>
+								<h3 class="post-title"><a href="https://mypetlife.co.kr/108984/">강아지 신뢰도 테스트 &#8211; 나를 얼마나 믿고 있을까?</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">2021년 11월 12일</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+					</div><!-- .related-posts-list /-->
+				</div><!-- #related-posts /-->
+
+			        <div class="recommended-content-section">
+            <div class="mag-box-title the-global-title">
+                <h3>추천 콘텐츠</h3>
+            </div>
+                    <div class="ab-content-card" id="ab-content-card-7-B-16">
+            <a href="https://mypetlife.co.kr/35940/" id="ab-content-link-7-B-16">
+                <div class="recommended-content">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="댕댕이도 몸이 쑤실 땐 안마가 최고야! 보호자 손은 약손~"/ data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2019/07/09153637/dog-massage.jpg" ><noscript><img src="https://images.mypetlife.co.kr/content/uploads/2019/07/09153637/dog-massage.jpg" alt="댕댕이도 몸이 쑤실 땐 안마가 최고야! 보호자 손은 약손~"/ ></noscript>
+                    <div class="recommended-content-title">
+                        댕댕이도 몸이 쑤실 땐 안마가 최고야! 보호자 손은 약손~                    </div>
+                </div>
+            </a>
+        </div>
+                </div>
+                <div class="adsense-post-list">
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-format="autorelaxed"
+                 data-ad-client="ca-pub-4786722989459138"
+                 data-ad-slot="5712137628"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        
+        </div><!-- .post-components /-->
+
+        
+    </div><!-- .main-content -->
+
+	<div id="check-also-box" class="container-wrapper check-also-right">
+
+		<div class="widget-title the-global-title">
+			<div class="the-subtitle">관심 있으실 것 같아요!</div>
+
+			<a href="#" id="check-also-close" class="remove">
+				<span class="screen-reader-text">Close</span>
+			</a>
+		</div>
+
+		<div class="widget posts-list-big-first has-first-big-post">
+			<ul class="posts-list-items">
+
+			
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="강아지 산책 거부 이유, 왜 산책하다 주저앉는 걸까?" href="https://mypetlife.co.kr/111695/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-240">강아지 행동</span></span><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20220'%3E%3C/svg%3E" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2022/01/26150701/IMG_8835-1-edited-390x220.jpg" /><noscript><img width="390" height="220" src="https://images.mypetlife.co.kr/content/uploads/2022/01/26150701/IMG_8835-1-edited-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></noscript></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<h3 class="post-title"><a href="https://mypetlife.co.kr/111695/">강아지 산책 거부 이유, 왜 산책하다 주저앉는 걸까?</a></h3>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">2주 전</span>		</div>
+	</div>
+</li>
+
+			</ul><!-- .related-posts-list /-->
+		</div>
+	</div><!-- #related-posts /-->
+
+	
+	<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+		<div class="theiaStickySidebar">
+			<div id="stream-item-widget-22" class="widget stream-item-widget widget-content-only"><div class="stream-item-widget-content"><a id="SidebarLink" rel="nofollow" target="_blank">
+  <img id="SidebarBanner" alt="비마이펫배너광고">
+</a>
+<script>
+  var SidebarBanners= [
+  "https://images.mypetlife.co.kr/content/uploads/2021/11/22174022/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81_%EB%8F%99%EB%AC%BC%EB%93%B1%EB%A1%9D-%EC%86%8C%EC%9E%AC_1.png",
+  "https://images.mypetlife.co.kr/content/uploads/2021/12/01170929/1_%EC%A0%9C%EB%B3%B4%ED%95%98%EA%B8%B0_%EC%8B%A4%EC%82%AC_1280X1280.png",
+"https://images.mypetlife.co.kr/content/uploads/2021/12/21161302/%EC%82%B0%EC%B1%85%EC%9A%A9-%EC%A0%91%EC%9D%B4%EC%8B%9D-%EB%B3%B4%EC%9A%B8_1.png",
+"https://images.mypetlife.co.kr/content/uploads/2022/01/13113640/kakao-emoticon-samsek-1000.png",
+"https://images.mypetlife.co.kr/content/uploads/2022/01/28100733/cat_litter_-deodorizer_banner.png",
+"https://images.mypetlife.co.kr/content/uploads/2022/01/28100737/pet_food_bowl_banner.png",
+
+  ];
+  var SidebarLinks= [
+    "https://mypetlife.co.kr/cbh/?utm_source=mypetlife.co.kr&utm_medium=mypetlife.co.kr&utm_campaign=20211122",
+"https://creators.mypetlife.co.kr/jaebo/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=jaebo",
+"https://store.bemypet.kr/product/%eb%b9%84%eb%a7%88%ec%9d%b4%ed%8e%abx%ed%8e%ab%ed%8a%b8%eb%a6%ac%ec%9b%80-%ec%82%b0%ec%b1%85%ec%9a%a9-%ec%a0%91%ec%9d%b4%ec%8b%9d-%eb%b3%b4%ec%9a%b8/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=dogbowl",
+"https://e.kakao.com/t/lo-and-behold-the-great-samsek",
+"https://store.bemypet.kr/product/%ec%82%bc%ec%83%89%ec%9d%b4%ec%9d%98-%ea%b3%a0%ec%96%91%ec%9d%b4-%eb%aa%a8%eb%9e%98-%ed%83%88%ec%b7%a8%ec%a0%9c/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=cat_litter_deodorizer",
+"https://store.bemypet.kr/product/%eb%b9%84%eb%a7%88%ec%9d%b4%ed%8e%abx%ed%8e%ab%ed%8a%b8%eb%a6%ac%ec%9b%80-%ec%95%84%ed%81%ac%eb%a6%b4-%ed%8e%ab%ed%85%8c%ec%9d%b4%eb%b8%94-1%ea%b5%ac/?utm_source=mypetlife&utm_medium=mypetlife&utm_campaign=pet_food_bowl",
+    ];
+  var SidebarClasses=[
+  "sidebar-advertiser-cbh",
+"sidebar-advertiser-jaebo-real-picture",
+"sidebar-advertiser-dogbowl",
+"sidebar-advertiser-kakao-emoticon",
+"sidebar-advertiser-cat-litter-deodorizer",
+"sidebar-advertiser-pet-food-bowl",
+  ];
+  var size = SidebarBanners.length
+    var x = Math.floor(size*Math.random())
+    document.getElementById('SidebarBanner').src=SidebarBanners[x];
+    document.getElementById('SidebarLink').href=SidebarLinks[x];
+    document.getElementById('SidebarBanner').setAttribute('class', SidebarClasses[x]);
+    document.getElementById('SidebarLink').setAttribute('class', SidebarClasses[x]);
+</script></div></div><div id="block-2" class="container-wrapper widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><a href="https://mypetlife.co.kr/subscribe"><img width="1000" height="349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20349'%3E%3C/svg%3E" alt="" class="wp-image-109912" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter-768x268.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter.png" /><noscript><img width="1000" height="349" src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter.png" alt="" class="wp-image-109912" srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173247/sidebar-newsletter-768x268.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript></a></figure>
+<div class="clearfix"></div></div><!-- .widget /--><div id="block-3" class="container-wrapper widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><a href="https://creators.mypetlife.co.kr/jipsa-recommended"><img width="1000" height="349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20349'%3E%3C/svg%3E" alt="" class="wp-image-109914" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa-768x268.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa.png" /><noscript><img width="1000" height="349" src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa.png" alt="" class="wp-image-109914" srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173250/sidebar-jipsa-768x268.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript></a></figure>
+<div class="clearfix"></div></div><!-- .widget /--><div id="block-4" class="container-wrapper widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><a href="https://creators.mypetlife.co.kr/jaebo"><img width="1000" height="349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20349'%3E%3C/svg%3E" alt="" class="wp-image-109913" data-lazy-srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo-768x268.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo.png" /><noscript><img width="1000" height="349" src="https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo.png" alt="" class="wp-image-109913" srcset="https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo.png 1000w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo-300x105.png 300w, https://images.mypetlife.co.kr/content/uploads/2021/12/05173248/sideebar-jaebo-768x268.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript></a></figure>
+<div class="clearfix"></div></div><!-- .widget /--><div id="stream-item-widget-23" class="widget stream-item-widget widget-content-only"><div class="stream-item-widget-content"><!-- Bemypetlife - Sidebar Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4786722989459138"
+     data-ad-slot="3652821352"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>		</div><!-- .theiaStickySidebar /-->
+	</aside><!-- .sidebar /-->
+	</div><!-- .main-content-row /--></div><!-- #content /-->
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+
+	
+			<div id="footer-widgets-container">
+				<div class="container">
+					
+		<div class="footer-widget-area ">
+			<div class="tie-row">
+
+									<div class="tie-col-sm-4 normal-side">
+						<div id="nav_menu-21" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title"><div class="the-subtitle">더 보기</div></div><div class="menu-%eb%8d%94-%eb%b3%b4%ea%b8%b0-container"><ul id="menu-%eb%8d%94-%eb%b3%b4%ea%b8%b0" class="menu"><li id="menu-item-6360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6360"><a target="_blank" rel="noopener" href="https://corp.bemypet.kr">비마이펫 소개</a></li>
+<li id="menu-item-16617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16617"><a href="https://creators.mypetlife.co.kr/">비마이펫 크리에이터즈</a></li>
+<li id="menu-item-92639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92639"><a href="https://tools.mypetlife.co.kr">비마이펫 툴즈</a></li>
+<li id="menu-item-13225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13225"><a href="https://mypetlife.co.kr/cbh/">비마이펫 컴백홈</a></li>
+</ul></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+									<div class="tie-col-sm-4 normal-side">
+						<div id="nav_menu-29" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title"><div class="the-subtitle">함께해요</div></div><div class="menu-%ed%95%a8%ea%bb%98%ed%95%98%ea%b8%b0-container"><ul id="menu-%ed%95%a8%ea%bb%98%ed%95%98%ea%b8%b0" class="menu"><li id="menu-item-15221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15221"><a href="https://mypetlife.co.kr/writer-intro/">에디터/감수자 소개</a></li>
+<li id="menu-item-63869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63869"><a href="https://corp.bemypet.kr/business/">제휴 문의</a></li>
+</ul></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+									<div class="tie-col-sm-4 normal-side">
+						<div id="nav_menu-18" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title"><div class="the-subtitle">자료 및 도구</div></div><div class="menu-%ec%9e%90%eb%a3%8c-%eb%b0%8f-%eb%8f%84%ea%b5%ac-container"><ul id="menu-%ec%9e%90%eb%a3%8c-%eb%b0%8f-%eb%8f%84%ea%b5%ac" class="menu"><li id="menu-item-109952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109952"><a href="/petask">Q&#038;A</a></li>
+<li id="menu-item-103390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103390"><a href="https://mypetlife.co.kr/category/%ec%83%9d%ed%99%9c/">생활 연구소</a></li>
+<li id="menu-item-92622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92622"><a href="https://tools.mypetlife.co.kr/recommend-calorie">권장 칼로리 계산기</a></li>
+<li id="menu-item-92621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92621"><a href="https://tools.mypetlife.co.kr/food-calorie">사료 열량 계산기</a></li>
+<li id="menu-item-92624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92624"><a href="https://tools.mypetlife.co.kr/">더 보기</a></li>
+</ul></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+				
+			</div><!-- .tie-row /-->
+		</div><!-- .footer-widget-area /-->
+
+						</div><!-- .container /-->
+			</div><!-- #Footer-widgets-container /-->
+			
+			<div id="site-info" class="site-info">
+				<div class="container">
+					<div class="tie-row">
+						<div class="tie-col-md-12">
+
+							<div class="copyright-text copyright-text-first">비마이펫&copy; Copyright 2022, All Rights Reserved<br/></div><div class="copyright-text copyright-text-second">서울시 서초구 서초대로 58길 35-16,  5층 | 비마이펫(주) <br/>  등록번호 : 서울,아 05182 | 등록일자 : 2018년 5월 8일<br/>
+제호 : 비마이펫 라이프<br/>
+ 발행인 : 성현진 | 편집인 : 성현진 | 청소년보호책임자: 성현진
+<br/>
+문의: 050-7724-6399, business@bemypet.kr
+<div class="app-download">
+<a href="https://apps.apple.com/kr/app/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%8E%AB-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%EC%A7%80%EC%8B%9D%EC%A0%95%EB%B3%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1506523332?&amp;utm_source=mainwebsite&amp;utm_campaign=initial" target="_blank" rel="noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%200'%3E%3C/svg%3E" alt="다운로드하기 App Store" width="150px" data-lazy-src="https://images.mypetlife.co.kr/content/icons/icon-appstore-badge.png" /><noscript><img src="https://images.mypetlife.co.kr/content/icons/icon-appstore-badge.png" alt="다운로드하기 App Store" width="150px" /></noscript></a>
+<a href="https://play.google.com/store/apps/details?id=kr.bemypet.bemypet_main_app&amp;utm_source=mainwebsite&amp;utm_campaign=initial&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank" rel="noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%200'%3E%3C/svg%3E" alt="다운로드하기 Google Play" width="150px" data-lazy-src="https://images.mypetlife.co.kr/content/icons/icon-playstore.png" /><noscript><img src="https://images.mypetlife.co.kr/content/icons/icon-playstore.png" alt="다운로드하기 Google Play" width="150px" /></noscript></a>
+</div></div><div class="footer-menu"><ul id="menu-footer" class="menu"><li id="menu-item-6349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6349"><a href="https://mypetlife.co.kr/%ec%9d%b4%ec%9a%a9%ec%95%bd%ea%b4%80/">이용약관</a></li>
+<li id="menu-item-28623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28623"><a href="https://mypetlife.co.kr/privacy-policy/">개인정보처리방침</a></li>
+</ul></div>
+						</div><!-- .tie-col /-->
+					</div><!-- .tie-row /-->
+				</div><!-- .container /-->
+			</div><!-- #site-info /-->
+			
+</footer><!-- #footer /-->
+
+
+<div class="share-dialog">
+    <header>
+        <button class="close-button">
+            <svg>
+                <use href="#close"></use>
+            </svg>
+        </button>
+    </header>
+
+    <div class="targets">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmypetlife.co.kr%2F107933%2F" class="button" target="_blank">
+            <svg>
+                <use href="#facebook"></use>
+            </svg>
+        </a>
+
+        <a href="https://twitter.com/intent/tweet?text=강아지가 고마워할 때 보이는 행동 6가지&url=https%3A%2F%2Fmypetlife.co.kr%2F107933%2F" class="button" target="_blank">
+            <svg>
+                <use href="#twitter"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+<div id="snackbar"></div>
+
+<div id="bottom-bar-buttons-mobile" class="bottom-bar">
+    <div class="left">
+        <a class="bottom-bar-button" id="bottom-bar-share-button" type="button" title="공유">
+            <i class="fa fa-share-alt" aria-hidden="true"></i>
+        </a>
+
+        <a class="bottom-bar-button" id="bottom-bar-inactive-bookmark-button" type="button" title="북마크"
+           href="#" data-post_id="107933">
+            <i class="fa-bookmark far" data-post_id="107933"
+               aria-hidden="true"></i>
+        </a>
+
+        <a class="bottom-bar-button" id="bottom-bar-comment-button" type="button" title="댓글"
+           href="#comments">
+            <i class="fa fa-comment" aria-hidden="true"></i>
+            <span class="count">0</span>
+        </a>
+    </div>
+
+    <div class="right">
+            </div>
+</div>
+
+
+<svg class="hidden">
+    <defs>
+        <symbol id="facebook" viewBox="0 0 24 24" fill="#3b5998" stroke="#3b5998" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook">
+            <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+        </symbol>
+        <symbol id="twitter" viewBox="0 0 24 24" fill="#1da1f2" stroke="#1da1f2" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" class="feather feather-twitter">
+            <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+        </symbol>
+        <symbol id="close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" class="feather feather-x-square">
+            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+            <line x1="9" y1="9" x2="15" y2="15"></line>
+            <line x1="15" y1="9" x2="9" y2="15"></line>
+        </symbol>
+    </defs>
+</svg>
+		<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+			<span class="tie-icon-angle-up"></span>
+			<span class="screen-reader-text">Back to top button</span>
+		</a>
+	
+		</div><!-- #tie-wrapper /-->
+
+		
+	<aside class=" side-aside normal-side dark-skin dark-widgetized-area appear-from-right" aria-label="Secondary Sidebar" style="visibility: hidden;">
+		<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+
+			<a href="#" class="close-side-aside remove big-btn light-btn">
+				<span class="screen-reader-text">Close</span>
+			</a><!-- .close-side-aside /-->
+
+
+			
+				<div id="mobile-container">
+
+					
+					<div id="mobile-menu" class=" has-custom-menu">
+						<div class="menu-mobile-main-menu-container"><ul id="mobile-custom-menu" class="menu" role="menubar"><li id="menu-item-103391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103391"><a href="/dog-lab">강아지 연구소</a></li>
+<li id="menu-item-103392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103392"><a href="/cat-lab">고양이 연구소</a></li>
+<li id="menu-item-103393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103393"><a href="/product-lab">제품 연구소</a></li>
+<li id="menu-item-107769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107769"><a href="/subscribe">뉴스레터</a></li>
+<li id="menu-item-103395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103395"><a href="/account">마이페이지</a></li>
+<li id="menu-item-103396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103396"><a href="#">더 보기</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-103397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103397"><a href="https://creators.mypetlife.co.kr">크리에이터즈</a></li>
+	<li id="menu-item-103398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103398"><a href="http://mypetlife.co.kr/cbh?utm_source=bemypet&#038;utm_medium=bemypet-life-hamburger&#038;utm_campaign=hamburger_menu_20210704">동물등록</a></li>
+	<li id="menu-item-103399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103399"><a href="https://store.bemypet.kr">스토어</a></li>
+	<li id="menu-item-103394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103394"><a href="/petask">Q&#038;A</a></li>
+</ul>
+</li>
+</ul></div>					</div><!-- #mobile-menu /-->
+
+											<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+							<ul><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="http://facebook.com/bemypetkr"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.youtube.com/channel/UClljZ2pw3YZFVGq6EQgJVyQ"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/bemypet.official/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li></ul> 
+						</div><!-- #mobile-social-icons /-->
+						
+				</div><!-- #mobile-container /-->
+			
+
+			
+		</div><!-- .side-aside-wrapper /-->
+	</aside><!-- .side-aside /-->
+
+	
+	</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRPD4SK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="reading-position-indicator"></div><div id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div>	<div id="tie-popup-search-mobile" class="tie-popup tie-popup-search-wrap" style="display: none;">
+		<a href="#" class="tie-btn-close remove big-btn light-btn">
+			<span class="screen-reader-text">Close</span>
+		</a>
+		<div class="popup-search-wrap-inner">
+			<div class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Search">
+				<form method="get" class="tie-popup-search-form" action="https://mypetlife.co.kr/">
+					<input class="tie-popup-search-input is-ajax-search" inputmode="search" type="text" name="s" title="검색" autocomplete="off" placeholder="검색" />
+					<button class="tie-popup-search-submit" type="submit">
+						<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+						<span class="screen-reader-text">검색</span>
+					</button>
+				</form>
+			</div><!-- .pop-up-live-search /-->
+		</div><!-- .popup-search-wrap-inner /-->
+	</div><!-- .tie-popup-search-wrap /-->
+	<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/js/dist/newsletter.js?ver=1643952209' id='bemypet-life-newsletter-js' defer></script>
+<script type='text/javascript' id='bottom-bar-js-extra'>
+/* <![CDATA[ */
+var bookmark_ajax_object = {"ajaxurl":"https:\/\/mypetlife.co.kr\/wp-admin\/admin-ajax.php","logged_in":"","add_bookmark_nonce":"385d114311","remove_bookmark_nonce":"bd5ea5d169"};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/js/dist/bottom-bar.js?ver=1643952209' id='bottom-bar-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/js/dist/single-post.js?ver=1643952209' id='coupon-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life-child/assets/js/dist/account.js?ver=1643952209' id='account-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/plugins/page-links-to/dist/new-tab.js?ver=1643952209' id='page-links-to-js' defer></script>
+<script type='text/javascript' id='tie-scripts-js-extra'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/mypetlife.co.kr\/wp-admin\/admin-ajax.php","is_taqyeem_active":"1","is_sticky_video":"1","mobile_menu_top":"","mobile_menu_active":"area_2","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"light","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"","select_share_twitter":"","select_share_facebook":"","select_share_linkedin":"","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"","lang_no_results":"\uac80\uc0c9\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4","sticky_share_mobile":"true","sticky_share_post":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-content/themes/bemypet-life/assets/js/scripts.min.js?ver=5.1.0' id='tie-scripts-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/ilightbox/lightbox.js?ver=1643952209' id='tie-js-ilightbox-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-content/themes/bemypet-life/assets/js/sliders.min.js?ver=5.1.0' id='tie-js-sliders-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/js/shortcodes.js?ver=1643952209' id='tie-js-shortcodes-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-content/themes/bemypet-life/assets/js/desktop.min.js?ver=5.1.0' id='tie-js-desktop-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/wp-content/themes/bemypet-life/assets/js/live-search.js?ver=1643952209' id='tie-js-livesearch-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-content/themes/bemypet-life/assets/js/single.min.js?ver=5.1.0' id='tie-js-single-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-includes/js/comment-reply.min.js?ver=5.8.3' id='comment-reply-js' defer></script>
+<script type='text/javascript' src='https://assets.mypetlife.co.kr/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://mypetlife.co.kr/wp-content/cache/min/1/sdks/OneSignalSDK.js?ver=1643952165' async='async' id='remote_sdk-js'></script>
+<script>
+				WebFontConfig ={
+					google:{
+						families: [ 'Overlock:regular,500,600,700:latin', 'Pontano+Sans::latin&display=swap' ]
+					}
+				};
+
+				(function(){
+					var wf   = document.createElement('script');
+					wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+					wf.type  = 'text/javascript';
+					wf.defer = 'true';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(wf, s);
+				})();
+			</script><script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://mypetlife.co.kr/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script>
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 4226 objects (2 MB) from Redis using PhpRedis (v5.3.2).
+-->
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1644195936 -->
